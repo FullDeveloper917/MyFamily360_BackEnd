@@ -1,0 +1,24 @@
+{
+  "name": "myfamily360",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.3",
+    "express-public-ip": "^1.0.1",
+    "firebase-admin": "^6.0.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "node-static": "^0.7.10",
+    "pug": "2.0.0-beta11",
+    "randomstring": "^1.1.5",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
